@@ -64,5 +64,93 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-JsonGPT is a company surfaced via the API Evangelist harvest backlog (source: g2-catalog) and added to the network as a stub for full-pipeline profiling.
-- https://jsongpt.com/
+JsonGPT provides a simple API that generates JSON data using AI models such as OpenAI, Gemini, and others. It offers features like JSON validation, prompt caching, streaming responses, and multi‑model support, enabling developers to quickly integrate structured AI‑generated data into their applications without manual parsing. The service includes a free playground with 30 free calls, extensive documentation, and SDKs for various languages, aiming to reduce development time and cost for JSON‑centric AI use cases.
+
+**Areas:** Company · AI · JSON · API · Automation
+
+## JsonGPT on APIs.io
+
+Everything profiled for JsonGPT is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/jsongpt/](https://apis.io/providers/jsongpt/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [JsonGPT API](https://apis.io/apis/jsongpt/jsongpt-api/) — JSON GPT API provides JSON responses based on text prompts.
+- [JSON GPT API API](https://apis.io/apis/jsongpt/json-gpt-api-api/) — This API provides JSON responses based on the provided text prompts.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [JsonGPT API Rules](https://apis.io/rules/jsongpt/jsongpt-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Jsongpt Domain Security](https://apis.io/security/jsongpt/jsongpt-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://jsongpt.com/)
+- [Documentation](https://docs.jsongpt.com/)
+- [Getting started](https://jsongpt.com/playground)
+- [API reference](https://api.jsongpt.com/)
+
+## API Evangelist rating
+
+**Kin Score 29.2** — thin · rubric 0.24.0 · scored 2026-10-18
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 35.5 |
+| Contract governance | 65.5 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 33.3 |
+| Access clarity | 0.0 |
+
+**Agent readiness 16.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.0** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/jsongpt/](https://apis.io/providers/jsongpt/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for JsonGPT: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/jsongpt/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
